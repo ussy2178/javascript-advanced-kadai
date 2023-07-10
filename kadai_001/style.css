@@ -1,0 +1,51 @@
+body {
+    font-size: 6em;
+    text-align: center;
+}
+
+.count {
+    margin: 0;
+    font-weight: bold;
+    color: #888;
+}
+
+.wrap {
+    margin-top: 20px;
+    padding: 80px 40px;
+    background-color: #666;
+    font-weight: bold;
+    color: #fff;
+}
+
+.typed {
+    color: lightgreen;
+}
+
+.mistyped {
+    background-color: red;
+}
+
+
+.showResults {
+    margin: 30px auto 0 auto;
+    width: 250px;
+    height: auto;
+    background-color: antiquewhite;
+    border-radius: 50%;
+}
+
+.rankThird {
+    background-color: #db7b5f;
+}
+
+.rankSecond {
+    background-color: #e5e5e0;
+}
+
+.rankFirst {
+    background-color: #d6a140;
+}
+
+.rankTop {
+    background: linear-gradient(to bottom,#FF0000,#FFA500 14%,#FFFF00 28%,#008000 42%,#00FFFF 56%,#0000FF 70%,#800080);
+}
